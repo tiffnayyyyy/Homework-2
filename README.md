@@ -3,6 +3,8 @@
 ## Due Date
 This homework is due on ***Sunday, October 4th by 11:59 pm EST***. It is going to cover *some* concepts on the midterm, so it will be helpful as practice.
 
+> **Late submissions will lose 50% of their original grade.** So if you originally get a 100%, you would be given a 50%, and so on so forth.
+
 ## Submission Instructions
 
 Please follow these exact instructions for full submission credit. 
