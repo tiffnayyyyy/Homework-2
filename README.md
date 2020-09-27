@@ -37,7 +37,7 @@ Write the function `is_pythagorean` that takes three numbers as inputs: `a`, `b`
 ### Question 2 - Loops
 Write a for-loop that prints all the prime numbers from 1000 to 100 in reverse order.
 
-> +2 bonus points for creating a function called `is_prime?` that checks if a number, `n` is a prime number.
+> +2 bonus points for creating a function called `is_prime` that checks if a number, `n` is a prime number.
 
 ### Question 3 - Professor Xavi's Wine Emporium
 In order to prep appetizers, Professor Xavi keeps 3 bottles that contain blends of wine, vodka and lemon juice. His inventory is represented by the following matrix:
